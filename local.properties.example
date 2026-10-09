@@ -1,0 +1,13 @@
+## Sample local.properties file for Uthen Bhai
+## Copy this file to 'local.properties' and set your own keys and paths.
+## This file is automatically ignored by Git to prevent exposing secrets on GitHub.
+
+# Path to your Android SDK
+sdk.dir=E\:\\Software\\Android\\SDK
+
+# Google Maps Platform API key. Enable Maps SDK for Android and Places API (New)
+# in Google Cloud, configure Android app restrictions, and enable billing.
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE
+
+# Optional fallback geocoding and road routing
+GEOAPIFY_API_KEY=

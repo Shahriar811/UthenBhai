@@ -1,0 +1,58 @@
+# Built application files
+*.apk
+*.aar
+*.aab
+*.dex
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.class
+
+# Java / JVM crash logs
+hs_err_pid*
+replay_pid*
+*.log
+
+# Gradle files
+.gradle/
+build/
+*/build/
+app/build/
+
+# Local configuration file (contains SDK paths and local API keys)
+local.properties
+/local.properties
+**/local.properties
+!local.properties.example
+.env
+.env.*
+!.env.example
+*.env
+
+# Keystore and signing keys
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# Firebase / Google Services credentials
+google-services.json
+**/google-services.json
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+/.idea/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
